@@ -2,4 +2,3 @@
 - 👀 I’m interested in Computer Vision and XR technologies
 - 🌱 I’m currently learning Embedded machine learning and I want to integrate it in the industry via Augmented Reality.
 - 📫 How to reach me: melek.cherif@enstab.ucar.tn
-- 
